@@ -1,0 +1,8 @@
+nav {
+    border-bottom: 1px solid #B0B0B0;
+    > a {
+        &.active {
+            background-color: aliceblue;
+        }
+    }
+}
